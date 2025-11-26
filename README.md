@@ -1,5 +1,7 @@
 # Azure Prod Ops (APO) CLI
 
+![alt text](images/apo.gif)
+
 A zero-dependency Terminal User Interface (TUI) for Azure DevOps, built with Go following best engineering practices.
 
 ## Features
